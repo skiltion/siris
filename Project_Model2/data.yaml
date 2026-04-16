@@ -1,0 +1,15 @@
+path: dataset
+train: train
+val: val
+
+names:
+  0: field_cricket
+  1: red_mite
+  2: leaf_beetle
+  3: termite
+  4: wasp
+  5: dragonfly
+  6: honey_bee
+  7: ladybug
+  8: mantis
+  9: Pieris_rapae

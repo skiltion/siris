@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697828420307",
+    "project_id": "siris-5c79a",
+    "storage_bucket": "siris-5c79a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697828420307:android:626bd9fdd13b1469690226",
+        "android_client_info": {
+          "package_name": "com.example.siris"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUX4pNbh5BpHZ9wjxbWBPoChZnIMotzJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
